@@ -1,11 +1,30 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 
+@import url('https://fonts.googleapis.com/css?family=Faster+One|Roboto+Mono&display=swap');
+
 * {
   font-family: 'Roboto Mono', monospace;
 }
 
+body {
+  background-color: #C4DBEF;
+}
+
+h2 {
+  margin: 10px 10px 10px 0px;
+}
+
+h3 {
+  margin: 10px 10px 10px 0px;
+}
+
+ul {
+  background-color: #92BFDF;
+}
+
 #toppic {
   width: 100%;
+  border: 5px solid #438FC1;
 }
 
 #tandempic {
@@ -15,10 +34,6 @@
   border-radius: 10%;
 }
 
-h2{
-  margin: 10px 10px 10px 0px;
-}
-
-h3{
-  margin: 10px 10px 10px 0px;
+#fast {
+  font-family: 'Faster One', cursive;
 }
