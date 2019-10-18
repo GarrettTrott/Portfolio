@@ -8,6 +8,12 @@
   width: 100%;
 }
 
+#tandempic {
+  float: right;
+  width: 50%;
+  margin: 10px;
+}
+
 h2{
   margin: 10px 10px 10px 0px;
 }
