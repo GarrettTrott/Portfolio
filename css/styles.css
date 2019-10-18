@@ -4,6 +4,10 @@
   font-family: 'Roboto Mono', monospace;
 }
 
+h2 {
+  margin-right: 20px;
+}
+
 #toppic {
   width: 100%
 }
