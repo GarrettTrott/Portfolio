@@ -10,6 +10,14 @@ body {
   background-color: #C4DBEF;
 }
 
+a {
+  color: #559AC9;
+}
+
+a:hover {
+  color: #92BFDF;
+}
+
 h2 {
   margin: 10px 10px 10px 0px;
 }
@@ -22,9 +30,12 @@ ul {
   background-color: #92BFDF;
 }
 
+.picstyles {
+  border: 5px solid #438FC1;
+}
+
 #toppic {
   width: 100%;
-  border: 5px solid #438FC1;
 }
 
 #tandempic {
