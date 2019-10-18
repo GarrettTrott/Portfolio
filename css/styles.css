@@ -18,13 +18,10 @@ a:hover {
   color: #92BFDF;
 }
 
-h2 {
+h2, h3 {
   margin: 10px 10px 10px 0px;
 }
 
-h3 {
-  margin: 10px 10px 10px 0px;
-}
 
 ul {
   background-color: #92BFDF;
@@ -47,4 +44,8 @@ ul {
 
 #fast {
   font-family: 'Faster One', cursive;
+}
+
+#carouselmg {
+  margin: 20px;
 }
