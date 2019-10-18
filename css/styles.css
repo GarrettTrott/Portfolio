@@ -37,8 +37,8 @@ ul {
 
 #tandempic {
   float: right;
-  width: 40%;
-  margin: 10px;
+  width: 50%;
+  margin: 10px 0px 10px 10px;
   border-radius: 10%;
 }
 
@@ -47,5 +47,5 @@ ul {
 }
 
 #carouselmg {
-  margin: 30px;
+  margin-top: 20px;
 }
