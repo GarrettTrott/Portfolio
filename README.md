@@ -1,6 +1,6 @@
 # _Garrett Trott's Portfolio_
 
-#### _A Website portfolio for Garrett Trott_ , 10-18-2019_
+#### _A Website portfolio for Garrett Trott_ , _10-18-2019_
 
 #### By _**Garrett Trott**_
 
@@ -19,7 +19,7 @@ _None_
 
 ## Support and contact details
 
-_G_
+_Garrett Trott: GarrettTrott@Gmail.com_
 
 ## Technologies Used
 
