@@ -6,12 +6,17 @@
 
 ## Description
 
-_Shows basic use of HTML, CSS & Bootstrap_
+_Shows basic use of HTML, CSS & Bootstrap in form of a basic personal profile_
 
 ## Setup/Installation Requirements
 
 * _Open Web browser_
 * _Go to http://GarrettTrott.github.io/portfolio_
+
+_or_
+
+* _Clone project_
+* _Open Index.html in Web browser_
 
 ## Known Bugs
 
