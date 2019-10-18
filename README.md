@@ -25,7 +25,6 @@ _Garrett Trott: GarrettTrott@Gmail.com_
 
 _HTML, CSS & Bootstrap_
 
-
 ### License
 
 *MIT*
