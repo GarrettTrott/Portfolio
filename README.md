@@ -11,7 +11,7 @@ _Shows basic use of HTML, CSS & Bootstrap_
 ## Setup/Installation Requirements
 
 * _Open Web browser_
-* _Go to [this address]()
+* _Go to http://GarrettTrott.github.io/portfolio_
 
 ## Known Bugs
 
