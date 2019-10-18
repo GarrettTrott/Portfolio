@@ -37,14 +37,13 @@ ul {
 
 #tandempic {
   float: right;
-  width: 50%;
+  width: 40%;
   margin: 10px 0px 10px 10px;
   border-radius: 10%;
 }
 
 #fast {
   font-family: 'Faster One', cursive;
-  font-size: 17px;
 }
 
 #carouselmg {
